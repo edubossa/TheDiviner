@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TheDiviner</string>
+    <string name="diviner_a_number">Diviner a number</string>
+    <string name="enter_your_number">Enter your number</string>
+    <string name="send">Send</string>
+    <string name="result">Result</string>
+    <string name="bt_disagree">DISAGREE</string>
+    <string name="bt_agree">AGREE</string>
+</resources>
